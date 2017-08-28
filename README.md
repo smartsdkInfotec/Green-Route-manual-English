@@ -1,4 +1,4 @@
-# Green-Route-manual-English
+# Green-Route-manual
 
 This is the Green Route manual. An Smart mobility application.
 
